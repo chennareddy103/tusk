@@ -10,4 +10,5 @@ public class MyApp {
 		System.out.println(theCoach.getDailyWorkout());		
 	}
 
+	// thank you it is going to work now
 }
