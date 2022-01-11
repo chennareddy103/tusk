@@ -8,7 +8,13 @@ public class MyApp {
 		
 		// use the object
 		System.out.println(theCoach.getDailyWorkout());		
+		
+		
+		System.out.println("hello");
 	}
+	
+	
 
 	// thank you it is going to work now
+	// done my changes
 }
